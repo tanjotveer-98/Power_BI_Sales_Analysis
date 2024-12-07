@@ -3,7 +3,7 @@
 https://github.com/tanjotveer-98/Power_BI_Sales_Analysis/tree/aadc4d8e414ffcba59199f3926e834fb5946dd69/Data
 
 ## Data model- </br>
-  <img src= "https://github.com/user-attachments/assets/20379aaa-0448-4e33-b337-9957fb5d4835" width= 600 height=400></br>
+  <img src= "https://github.com/user-attachments/assets/20379aaa-0448-4e33-b337-9957fb5d4835" width= 800 height=400></br>
   
 ## Hidden Pages for drill through on main dashboard.-</br>
 <ol>
