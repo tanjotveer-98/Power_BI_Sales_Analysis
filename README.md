@@ -16,7 +16,7 @@ https://github.com/tanjotveer-98/Power_BI_Sales_Analysis/tree/aadc4d8e414ffcba59
 </ol>
 
 ## Final Dashboard- </br>
-img src= "https://github.com/user-attachments/assets/995988ec-2a9b-4a6e-9f7e-c85ae7806f2b">
+<img src= "https://github.com/user-attachments/assets/995988ec-2a9b-4a6e-9f7e-c85ae7806f2b">
 
 
 
