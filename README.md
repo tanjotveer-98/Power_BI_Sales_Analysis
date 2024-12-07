@@ -7,10 +7,10 @@ https://github.com/tanjotveer-98/Power_BI_Sales_Analysis/tree/aadc4d8e414ffcba59
   
 ## Hidden Pages for drill through on main dashboard.-</br>
 <ol>
-  <li> Product Information and Analysis-
-   <img src= "https://github.com/user-attachments/assets/fe23f85a-0db2-4b43-882a-672a5b61fb39"width= 600 height= 400> <br>
+  <li> Product Information and Analysis-</br>
+   <img src= "https://github.com/user-attachments/assets/fe23f85a-0db2-4b43-882a-672a5b61fb39"width= 600 height= 400>
   </li>
-  <li> Sales by region-
+  <li> Sales by region-</br>
   <img src= "https://github.com/user-attachments/assets/90816a7c-ff68-4a45-9869-f89928e44502" width= 600 height= 400>
   </li>
 </ol>
